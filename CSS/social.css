@@ -1,0 +1,98 @@
+
+.bodysocial{
+
+    background-color: rgb(213, 213, 253);
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+
+.social-button{
+
+    text-align: center;
+    margin-top: 150px;
+    
+}
+
+a{
+    text-decoration: none;
+    padding: 0px 10px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.facebook{
+
+    background-color: #1877f2;
+    padding: 10px 15px;
+    border-radius: 7px;
+}
+
+.twitter{
+
+    background-color: #1da1f2;
+    padding: 10px 15px;
+    border-radius: 7px;
+}
+
+.instagram{
+
+    background-color: red;
+    padding: 10px 15px;
+    border-radius: 7px;
+}
+
+.scholink{
+
+    background-color: rgb(80, 80, 206);
+    padding: 10px 15px;
+    border-radius: 7px;
+}
+
+/* here is my landing page style sheet */
+
+.landingbody{
+
+    background-image: url(/image/pexels-photo-3.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container{
+
+    text-align: center;
+    margin-top: 200px;
+    
+}
+
+.container h1{
+
+    color: rgb(255, 255, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    text-transform: capitalize;
+
+}
+
+.container p{
+
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+a{
+    color: white;
+    padding: 10px 10px;
+    background-color: red;
+    border-radius: 7px;
+}
+
+
+
+
+
+
+
